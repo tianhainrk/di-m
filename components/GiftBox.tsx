@@ -59,17 +59,17 @@ cô dâu chú rể</h2>
             <Reveal animation="slide-left" delay={100}>
               <BankCard 
                   bankName="Vietcombank"
-                  accountName="LÊ TÚ NAM"
-                  accountNumber="1046220082"
-                  qrCode="https://i.ibb.co/99V0dN5P/img-1.png"
+                  accountName="DƯƠNG THỊ DIỄM"
+                  accountNumber="0691000412750"
+                  qrCode="https://i.ibb.co/RkBjV7rD/diem.png"
               />
             </Reveal>
             <Reveal animation="slide-right" delay={200}>
              <BankCard 
-              bankName="Vietcombank"
-              accountName="BÙI THỊ THÚY AN"
-              accountNumber="1045386894"
-              qrCode="https://img.vietqr.io/image/VCB-1045386894-compact.jpg"
+              bankName="MBbank"
+              accountName="NGUYỄN NHƯ NGỌC"
+              accountNumber="0339042903"
+              qrCode="https://i.ibb.co/bgS9ytKk/ngoc.png"
             />
             </Reveal>
           </div>

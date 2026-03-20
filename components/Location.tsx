@@ -3,7 +3,7 @@ import React from 'react';
 import Reveal from './Reveal';
 
 const Location: React.FC = () => {
-  const iframeSrc = "https://maps.google.com/maps?q=20.847062,106.210689&t=&z=16&ie=UTF8&iwloc=&output=embed";
+  const iframeSrc = "https://maps.google.com/maps?q=20.619881, 105.873079&t=&z=16&ie=UTF8&iwloc=&output=embed";
 
   return (
     <section id="location" className="w-full bg-white relative flex flex-col items-center justify-center py-4 overflow-hidden">
@@ -12,7 +12,7 @@ const Location: React.FC = () => {
         {/* Left Image */}
         <Reveal animation="slide-left" className="w-full h-[300px] relative rounded-sm overflow-hidden">
           <img 
-            src="/img/1D0A4084.webp" 
+            src="/img/LEE09719.webp" 
             alt="Couple" 
             className="w-full h-full object-cover" 
           />
@@ -29,7 +29,7 @@ const Location: React.FC = () => {
             Tư Gia Nhà Gái
           </h2>
           <p className="text-gray-600 mb-3 font-sans text-xs shrink-0">
-           Nguyễn Lương Bằng - TP.Hải Phòng
+            Phường Lê Hổ - Tỉnh Ninh Bình
           </p>
           
           <div className="w-full max-w-[200px] border border-[#8B1A1A] p-0.5 bg-white h-[120px] relative">

@@ -12,13 +12,13 @@ const Countdown: React.FC = () => {
         {/* 1. Top Images Row */}
         <Reveal animation="fade-up" className="grid grid-cols-3 gap-2 px-4 h-[30vh] shrink-0 mb-10">
            <div className="h-full overflow-hidden rounded-sm shadow-md">
-               <img src="/img/1D0A4394.webp" alt="Bride" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
+               <img src="/img/LEE08514.webp" alt="Bride" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
            </div>
            <div className="h-full overflow-hidden rounded-sm shadow-md translate-y-4">
-               <img src="/img/1D0A3821.webp" alt="Couple" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
+               <img src="/img/LEE09736.webp" alt="Couple" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
            </div>
            <div className="h-full overflow-hidden rounded-sm shadow-md">
-               <img src="/img/1D0A4432.webp" alt="Groom" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
+               <img src="/img/LEE09459.webp" alt="Groom" className="w-full h-full object-cover hover:scale-105 transition-transform duration-700" />
            </div>
         </Reveal>
 
@@ -37,12 +37,12 @@ const Countdown: React.FC = () => {
         <Reveal animation="zoom" delay={300} className="w-full max-w-2xl mx-auto mb-2 px-4">
             <div className="flex items-center justify-center text-gray-700 relative">
                 <div className="flex-1 text-right pr-4 flex flex-col justify-center">
-                    <p className="font-serif text-xl text-gray-600 tracking-widest">7h00</p>
+                    <p className="font-serif text-xl text-gray-600 tracking-widest">9h00</p>
                 </div>
                 <div className="w-[1px] h-16 bg-[#C5A059]"></div>
                 <div className="px-6 flex flex-col items-center justify-center">
                     <span className="font-serif text-gray-500 text-xs uppercase tracking-widest mb-1">Chủ nhật</span>
-                    <span className="font-serif text-6xl font-bold text-[#790B0B] leading-none mb-1">8</span>
+                    <span className="font-serif text-6xl font-bold text-[#790B0B] leading-none mb-1">29</span>
                     <span className="font-serif text-gray-500 text-xs uppercase tracking-widest">Tháng 03</span>
                 </div>
                 <div className="w-[1px] h-16 bg-[#C5A059]"></div>
@@ -51,7 +51,7 @@ const Countdown: React.FC = () => {
                 </div>
             </div>
             <p className="text-center text-gray-400 text-[10px] mt-4 font-serif italic">
-                (Tức ngày 20 tháng 1 năm Bính Ngọ)
+                (Tức ngày 11 tháng 2 năm Bính Ngọ)
             </p>
         </Reveal>
       </div>

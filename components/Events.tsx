@@ -11,7 +11,7 @@ const Events: React.FC = () => {
   });
 
   useEffect(() => {
-    const targetDate = new Date('2026-03-08T11:00:00').getTime();
+    const targetDate = new Date('2026-03-29T9:00:00').getTime();
     const interval = setInterval(() => {
       const now = new Date().getTime();
       const difference = targetDate - now;
@@ -39,7 +39,7 @@ const Events: React.FC = () => {
     <section id="events" className="min-h-screen w-full relative overflow-hidden flex flex-col bg-gray-900">
        <div className="absolute inset-0 z-0">
           <img 
-            src="/img/1D0A4111.webp" 
+            src="/img/LEE09177.webp" 
             alt="Background" 
             className="w-full h-full object-cover"
           />

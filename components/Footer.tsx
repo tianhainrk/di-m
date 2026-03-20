@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
     <footer className="h-screen w-full bg-white flex flex-col relative overflow-hidden">
       <div className="absolute inset-0 z-0">
         <img 
-          src="/img/1D0A4432.webp" 
+          src="/img/LEE09665.webp" 
           alt="Couple" 
           className="w-full h-full object-cover"
         />

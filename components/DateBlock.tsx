@@ -37,7 +37,7 @@ const DateBlock: React.FC = () => {
                   repeatType: "loop"
                 }}
               >
-                08
+                29
               </motion.span>
             </div>
             <div className="flex-1 border-y-[1.5px] border-black py-3 text-center">
@@ -49,7 +49,7 @@ const DateBlock: React.FC = () => {
         </div>
         
         <p className="text-gray-700 mt-3 font-sans text-lg">
-          Nhằm ngày 20 tháng 1 năm Bính Ngọ
+          Nhằm ngày 11 tháng 2 năm Bính Ngọ
         </p>
       </Reveal>
     </section>

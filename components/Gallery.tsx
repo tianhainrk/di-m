@@ -3,12 +3,12 @@ import React from 'react';
 import Reveal from './Reveal';
 
 const photos = [
-  "/img/1D0A4394.webp",
-  "/img/1D0A3821.webp",
-  "/img/1D0A4524.webp",
-  "/img/1D0A4111.webp",
-  "/img/1D0A4232.webp",
-  "/img/1D0A4340.webp",
+  "/img/LEE00171.webp",
+  "/img/LEE08514.webp",
+  "/img/LEE08798.webp",
+  "/img/LEE09177.webp",
+  "/img/LEE09459.webp",
+  "/img/LEE09665.webp",
 ];
 
 const Gallery: React.FC = () => {
