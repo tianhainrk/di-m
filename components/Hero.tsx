@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
             margin: 0,
             display: 'block'
           }}
-          src="https://www.canva.com/design/DAG_ya6cjBc/FQRqIjTBvtpxRA9D4hiIiA/view?embed" 
+          src="https://www.canva.com/design/DAHEdGnaWpw/S7jZATM_hXJ9Q2XIFWkBaw/view?embed" 
           allowFullScreen={true}
           allow="fullscreen"
           title="Thiệp Cưới Dương Diễm & Ngyễn Ngọc"
